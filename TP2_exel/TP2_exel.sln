@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "TP2_exel", "TP2_exel\TP2_exel.dtproj", "{C037D89A-BC86-4D3F-8801-9CF3B13E18AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C037D89A-BC86-4D3F-8801-9CF3B13E18AA}.Development|Default.ActiveCfg = Development
+		{C037D89A-BC86-4D3F-8801-9CF3B13E18AA}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2F6B806-8205-4CCA-BBDD-14DB7B79F5F1}
+	EndGlobalSection
+EndGlobal
